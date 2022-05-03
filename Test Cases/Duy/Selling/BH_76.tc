@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra nhập số lượng và thêm khi tìm mặt hàng</description>
+   <name>BH_76</name>
+   <tag>selling</tag>
+   <comment></comment>
+   <testCaseGuid>a67c0d56-4358-41dc-867b-a911a3337f70</testCaseGuid>
+</TestCaseEntity>

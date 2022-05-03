@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra sửa mặt hàng trong giỏ có thay đổi số lượng</description>
+   <name>BH_81</name>
+   <tag>selling</tag>
+   <comment></comment>
+   <testCaseGuid>aab19508-1668-49c8-a39b-678a6a1969b5</testCaseGuid>
+</TestCaseEntity>

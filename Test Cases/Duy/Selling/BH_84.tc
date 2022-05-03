@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Không tìm thấy khách hàng</description>
+   <name>BH_84</name>
+   <tag>selling_client</tag>
+   <comment></comment>
+   <testCaseGuid>8b944d85-1102-405f-9eb3-0150d9ded7a8</testCaseGuid>
+</TestCaseEntity>

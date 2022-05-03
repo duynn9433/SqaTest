@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thêm khách hàng khi không nhập số điện thoại</description>
+   <name>BH_85</name>
+   <tag>selling_client</tag>
+   <comment></comment>
+   <testCaseGuid>01b55450-27a7-411e-90e8-890cdf406a0f</testCaseGuid>
+</TestCaseEntity>

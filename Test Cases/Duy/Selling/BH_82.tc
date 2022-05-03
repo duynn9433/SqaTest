@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra Xoá mặt hàng trong giỏ</description>
+   <name>BH_82</name>
+   <tag>selling</tag>
+   <comment></comment>
+   <testCaseGuid>0983ed59-ea89-417d-9fdf-26fa06eb9f61</testCaseGuid>
+</TestCaseEntity>
