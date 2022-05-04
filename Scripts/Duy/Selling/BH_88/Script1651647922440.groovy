@@ -17,13 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//lay so ban ghi ban dau trong bang bill
-CustomKeywords.'duynn.MyDatabaseUtils.connectDB'('127.0.0.1', 'sqaspring', '3306', 'root', 'root')
-
-def recordset = CustomKeywords.'duynn.MyDatabaseUtils.executeQuery'('SELECT COUNT(*) as num FROM sqaspring.bill;')
-recordset.next()
-def num = recordset.getString("num")
-
 
 WebUI.openBrowser('')
 
@@ -57,15 +50,27 @@ WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/button_Chn khc
 
 WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/button_Lu ho n'))
 
+//lay so ban ghi ban dau trong bang bill
+CustomKeywords.'duynn.MyDatabaseUtils.connectDB'('127.0.0.1', 'sqaspring', '3306', 'root', 'root')
+
+def recordset = CustomKeywords.'duynn.MyDatabaseUtils.executeQuery'('SELECT COUNT(*) as num FROM sqaspring.bill;')
+recordset.next()
+def num_count = Integer.parseInt(recordset.getString("num"))
+System.out.println(num_count)
+
 WebUI.click(findTestObject('Object Repository/selling/Page_Xc nhn ho n/button_Lu'))
 
 //lay so luong ban ghi trong bill luc sau
 recordset = CustomKeywords.'duynn.MyDatabaseUtils.executeQuery'('SELECT COUNT(*) as num FROM sqaspring.bill;')
 recordset.next()
-def num2 = recordset.getString("num")
+def num2 = Integer.parseInt(recordset.getString("num"))
+
+System.out.println(num_count)
+System.out.println(num2)
+
 
 //tang 1 la dung
-WebUI.verifyEqual(num+1, num2)
+WebUI.verifyEqual(num_count + 1, num2)
 
 
 WebUI.closeBrowser()

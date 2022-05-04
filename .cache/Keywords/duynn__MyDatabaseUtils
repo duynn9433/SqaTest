@@ -72,7 +72,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         },
         {
           "name": "executeQuery",
@@ -90,11 +91,13 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         },
         {
           "name": "closeDatabaseConnection",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "execute",
@@ -112,10 +115,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\n\t * Execute non-query (usually INSERT/UPDATE/DELETE/COUNT/SUM...) on database\n\t * @param queryString a SQL statement\n\t * @return single value result of SQL statement\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

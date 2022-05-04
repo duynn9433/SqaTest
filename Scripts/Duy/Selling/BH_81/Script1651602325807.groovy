@@ -43,11 +43,11 @@ WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/button_Thm'))
 
 WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/input_goi_amount'))
 
-"10" == WebUI.getText(findTestObject('selling/Page_Bn hng/input_goi_amount'))
+'10' == WebUI.getText(findTestObject('selling/Page_Bn hng/input_goi_amount'))
 
-WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/label_Tng tin 5000'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/selling/Page_Bn hng/label_Tng tin 5000'), 0)
 
-"Tổng tiền: 5000" == WebUI.getText(findTestObject('selling/Page_Bn hng/label_Tng tin 5000'))
+//'Tổng tiền: 5000' == WebUI.getText(findTestObject('selling/Page_Bn hng/label_Tng tin 5000'))
 
 WebUI.setText(findTestObject('Object Repository/selling/Page_Bn hng/input_goi_amount'), '10')
 
@@ -57,9 +57,9 @@ WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/input_goi_amou
 
 '10' == WebUI.getText(findTestObject('selling/Page_Bn hng/input_goi_amount'))
 
-WebUI.click(findTestObject('Object Repository/selling/Page_Bn hng/label_Tng tin 50000'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/selling/Page_Bn hng/label_Tng tin 50000'), 0)
 
-'Tổng tiền: 50000' == WebUI.getText(findTestObject('selling/Page_Bn hng/label_Tng tin 50000'))
+//'Tổng tiền: 50000' == WebUI.getText(findTestObject('selling/Page_Bn hng/label_Tng tin 50000'))
 
 WebUI.closeBrowser()
 
