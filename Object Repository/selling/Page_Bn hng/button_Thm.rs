@@ -22,6 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>c4969748-45b9-4eda-ab24-e507544e33ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>ffdb3804-b5bb-4aac-94e3-2bc0468052c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>99210100-5f7f-4c55-a5bf-891eb37006e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm</value>
+      <webElementGuid>25e0f6d0-8107-44f3-8b76-0cf431887946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[2]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>1d512234-c82f-4858-8a9a-617ada45c1f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e55dce99-7893-4ad2-9299-64eee1f46616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>04f30224-55e3-4aad-8738-4a200d87a984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8c05b34c-7c9f-41c4-b6c9-08cba284516d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm</value>
+      <webElementGuid>ab3abc44-23aa-4300-a802-9641dca8c8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[2]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>6018a69c-a4e3-4eea-ad3b-7e9425e697e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>a8089301-55d8-48aa-97cc-e3099514f918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +113,7 @@
       <webElementGuid>065680fd-62f4-48aa-ac09-94c907bbb170</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +121,7 @@
       <webElementGuid>2f503dc8-49cb-4ae6-b025-c1ebeeb5206f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -342,7 +422,63 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>c62ab60f-2bba-4aca-a56b-ec41032bcd00</webElementGuid>
+      <webElementGuid>ef7c2200-0e03-45e6-a4a7-9debd67a5e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lon'])[2]/following::button[1]</value>
+      <webElementGuid>05091abf-20e2-46fd-b39a-1d8ecb2b2249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coca'])[1]/following::button[1]</value>
+      <webElementGuid>7395d54e-7454-4a96-918e-8975954951fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên'])[2]/preceding::button[1]</value>
+      <webElementGuid>66bca2fb-572f-4b12-a6c4-c43abae70b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn vị'])[2]/preceding::button[1]</value>
+      <webElementGuid>93117ebd-f689-4c22-9290-6e271b92f91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thêm']/parent::*</value>
+      <webElementGuid>65889084-9796-4cab-b7d2-fda4d0889492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/button</value>
+      <webElementGuid>74efbc89-96bf-429c-a99a-74df3d20bf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Thêm' or . = 'Thêm')]</value>
+      <webElementGuid>f542fe6b-b8ed-4e00-b652-e7574f653ad9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -359,62 +495,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='bim bim'])[1]/following::button[1]</value>
       <webElementGuid>d81a9a6a-24ca-49ad-8925-8474652ff67b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên'])[2]/preceding::button[1]</value>
-      <webElementGuid>ff383ea7-3f65-43f5-ba1a-72f5ebd5e3f9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn vị'])[2]/preceding::button[1]</value>
-      <webElementGuid>e1d50e9e-525c-4322-a0d7-295968c293cb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Thêm']/parent::*</value>
-      <webElementGuid>d489fb21-908f-4433-b732-75993aaedacf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//form[2]/button</value>
-      <webElementGuid>7c0b2aab-6a85-49e5-964b-db6ccb87b4f1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Thêm' or . = 'Thêm')]</value>
-      <webElementGuid>fbda970d-4361-4fc9-a4b0-f8f0e4a26ebf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='lon'])[2]/following::button[1]</value>
-      <webElementGuid>39b6f8e1-3cb1-4fa9-9888-e14002fcb562</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='coca'])[1]/following::button[1]</value>
-      <webElementGuid>2aa11511-9696-431f-8327-207417dcd055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d4c0bd14-6134-48a6-94b1-9fdf141a1d78</webElementGuid>
+      <webElementGuid>8d9ba81a-1665-4001-bad9-23c2678cbc6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,90 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>19b09cee-f2dc-497d-b221-5ff34b363d3a</webElementGuid>
+      <webElementGuid>2b6e5558-019f-4b5c-968c-a7ad314d512c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>chooseIndex</value>
+      <webElementGuid>ded091a1-114e-4b96-9e7a-d929f146d5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>db4827be-c1a2-4147-aef5-5701996ab00a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[2]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[3]/td[4]/input[1]</value>
+      <webElementGuid>916747c1-dc6d-4279-ac4f-5203d33495e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ad6f0f1f-dc23-4c9a-970a-9a1bbec0d8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>ad046fa9-9d9b-4086-ba33-a48c111edbe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>chooseIndex</value>
+      <webElementGuid>89325592-a080-4175-927e-b6c152db99f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>edc10959-66cc-4dab-97a2-25f58bf463d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[2]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[3]/td[4]/input[1]</value>
+      <webElementGuid>7f97bbb6-5e02-4765-9255-1732309d1d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d4c0bd14-6134-48a6-94b1-9fdf141a1d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>19b09cee-f2dc-497d-b221-5ff34b363d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='chooseIndex']</value>
-      <webElementGuid>46997d34-2bf1-4662-b849-fe475ab28f62</webElementGuid>
+      <webElementGuid>cb5dadba-eaca-4401-b493-9ce332efa484</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/input</value>
-      <webElementGuid>64388e10-6d6e-450b-9980-e3e2fb2512e9</webElementGuid>
+      <webElementGuid>8f53ab0e-3478-458f-9304-603c07f342a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'chooseIndex']</value>
-      <webElementGuid>785c563a-576d-4de0-9df2-4cc72593ef06</webElementGuid>
+      <webElementGuid>153faa2d-7ad1-4450-8aa4-649c38a26d1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

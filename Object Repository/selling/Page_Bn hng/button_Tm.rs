@@ -22,6 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>6629e569-6226-495a-96ed-3106e02d619f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>2167b04b-ec5e-476e-b095-0fca14ab6fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7e516bbc-f302-4ed5-afe2-e80bcad5dfce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm</value>
+      <webElementGuid>e00e9deb-8678-4903-bf66-4274b96000d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[1]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>23c1cd3b-4450-423e-8703-14bf97f3d420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70965e28-2c85-4aa1-a6e7-5bfea5deb61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>6cb2e783-c588-4335-8509-309c3082f7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d2e0ecf0-7f45-4f92-979c-b5398293ef14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm</value>
+      <webElementGuid>33603776-770a-4f73-8579-076a93b9751a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[1]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>aaf497a0-2251-4727-b248-102766d70c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>fb38a366-2d2c-4fb9-8c1c-40d1720054a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +113,7 @@
       <webElementGuid>fb39f916-5de9-4345-be6e-b9674bbbbdb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +121,7 @@
       <webElementGuid>e73e2c8c-e430-444b-8f6b-f6687fa27b69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -262,7 +342,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>46f4797a-3e89-4406-a23b-60a1fd845265</webElementGuid>
+      <webElementGuid>4c3d2f78-6e6c-44ec-8c06-1fe3a539da57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,7 +350,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên'])[1]/preceding::button[1]</value>
-      <webElementGuid>c22e63ed-ba1e-4b73-b0a4-821823b1bb42</webElementGuid>
+      <webElementGuid>75dc948d-778e-4b26-8372-db42eb61cb32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -278,7 +358,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn vị'])[1]/preceding::button[1]</value>
-      <webElementGuid>9a2929ed-5051-4775-8f77-98a437d836f7</webElementGuid>
+      <webElementGuid>4ba80e79-0a97-4ce8-a5e4-76d91d39aae8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -286,7 +366,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tìm']/parent::*</value>
-      <webElementGuid>ba717034-329b-4e13-9db5-f970dffb3418</webElementGuid>
+      <webElementGuid>b9efdf7a-2df6-4feb-af47-bd7a1828c937</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -294,7 +374,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>ffe5ae23-e9dd-4ba3-8dc8-fcca6b83463a</webElementGuid>
+      <webElementGuid>ed19e757-e88c-46e9-abb0-a50ea8d56cd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -302,6 +382,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Tìm' or . = 'Tìm')]</value>
-      <webElementGuid>060ef290-dde8-46e4-95e1-bcb662358b3c</webElementGuid>
+      <webElementGuid>b11414ba-7b57-4120-b4cd-65db5dde6367</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,10 +22,106 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>35afec4c-6a92-40e0-9f84-2fbdba0d893f</webElementGuid>
+      <webElementGuid>1afca97c-c080-44a7-b2c2-56f52da8f3c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>47e16700-b117-4d5c-9a4c-96530dad42a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pattern</name>
+      <type>Main</type>
+      <value>[0-9]+</value>
+      <webElementGuid>9257e9a5-31e0-4697-80ce-a21152fb367b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>amount</value>
+      <webElementGuid>32f117e8-6e45-4115-8120-0702181d951e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Số lượng mặt hàng</value>
+      <webElementGuid>db64a9d6-f606-4829-b68e-d7617a26a292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[2]/input[1]</value>
+      <webElementGuid>2ff7a8e0-3ce1-4ff2-a09d-73c609f5fc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7fbc5038-065a-48a4-82d2-070a12e85fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>92647795-fdb1-4cac-9bb6-f83886787bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pattern</name>
+      <type>Main</type>
+      <value>[0-9]+</value>
+      <webElementGuid>9f1185cb-46ed-4b93-af1a-6c7013346d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>amount</value>
+      <webElementGuid>8284113f-904e-42af-9106-22285d75f1d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Số lượng mặt hàng</value>
+      <webElementGuid>d7a2e1a3-9cd7-4393-a3e3-222fad39851c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-xl&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[2]/input[1]</value>
+      <webElementGuid>e27cd46f-c09e-4e28-894a-4581c368a25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>35afec4c-6a92-40e0-9f84-2fbdba0d893f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +137,7 @@
       <webElementGuid>f44c9e46-fec5-46b1-8db2-95b34f0f3a84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -49,7 +145,7 @@
       <webElementGuid>53960754-46e3-400f-8971-01fc87e9ceab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -118,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='amount']</value>
-      <webElementGuid>68a4f42d-2473-46d2-b2ce-d2f7f1625064</webElementGuid>
+      <webElementGuid>13eb05af-7ef7-47db-b557-33a6bcee3f09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +222,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form[2]/input</value>
-      <webElementGuid>a424f866-e26e-47ad-bf62-4898cd816781</webElementGuid>
+      <webElementGuid>3bab06be-8d35-40e5-add2-6fc0ce0bfa7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +230,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'amount' and @placeholder = 'Số lượng mặt hàng']</value>
-      <webElementGuid>762d93a2-7f45-4fa1-a38c-3b87fdf2e919</webElementGuid>
+      <webElementGuid>df8ef7c4-0bd4-4d71-b923-bc553d6f570f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

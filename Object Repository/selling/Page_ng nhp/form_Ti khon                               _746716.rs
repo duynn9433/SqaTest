@@ -22,6 +22,132 @@
       <name>tag</name>
       <type>Main</type>
       <value>form</value>
+      <webElementGuid>789ab519-6bfc-42cf-9c01-4fd4e3d9186d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-inline</value>
+      <webElementGuid>a6a6c25d-c889-4e21-b770-d48a467f6808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>/user/login/</value>
+      <webElementGuid>f4347c1f-78b3-4a8e-9d09-f906032eb057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>post</value>
+      <webElementGuid>b9ab1290-0c89-4bd2-bfee-0626f5701d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            
+                
+                
+                    
+                        Tài khoản:
+                        
+                    
+                    
+                        Mật khẩu:
+                        
+                    
+                
+                
+            
+        </value>
+      <webElementGuid>27c7626a-7170-4ccf-8a36-c0589ead45b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row col-12 text-center&quot;]/form[@class=&quot;form-inline&quot;]</value>
+      <webElementGuid>f6dce696-3857-4402-b3ad-e2f3bb4b63b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>752650bc-d8fd-4f03-bd2a-df33ed3815a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-inline</value>
+      <webElementGuid>0490f4b0-74f1-487d-be9a-2d49aa7b78dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>/user/login/</value>
+      <webElementGuid>23e537b4-3af6-4400-a450-96996f45d118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>post</value>
+      <webElementGuid>93c0dd8d-eecc-4873-b240-5bfc379da4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            
+                
+                
+                    
+                        Tài khoản:
+                        
+                    
+                    
+                        Mật khẩu:
+                        
+                    
+                
+                
+            
+        </value>
+      <webElementGuid>c58bf3ef-98ff-47a7-9cd8-2eef565fe041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row col-12 text-center&quot;]/form[@class=&quot;form-inline&quot;]</value>
+      <webElementGuid>74d1f96b-1b4b-4185-a622-d2fccad63d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
       <webElementGuid>12d5303b-4de9-4911-a44e-32e7833a6451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -49,7 +175,7 @@
       <webElementGuid>74548b48-c3ad-43ce-a90f-b2cd8d20450f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -589,7 +715,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//form[@action='/user/login/']</value>
-      <webElementGuid>d8a4a4ca-15ed-4a71-a27b-c60dc5bf74be</webElementGuid>
+      <webElementGuid>0c789404-9fd3-4785-911e-afdbd60fb265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -597,7 +723,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::form[1]</value>
-      <webElementGuid>de9c054d-899d-4ff6-b8ac-06cfafd0f287</webElementGuid>
+      <webElementGuid>1a000f9e-1231-4a7c-abd7-c98ee4e85356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -605,7 +731,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form</value>
-      <webElementGuid>8b61e259-a0d1-4eb5-a56a-afadbffbde7d</webElementGuid>
+      <webElementGuid>8334cdc8-3209-4bc2-9dbd-8b162da154e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -643,6 +769,6 @@
                 
             
         ')]</value>
-      <webElementGuid>cda9fa4f-289b-4e00-9800-ad119b153f47</webElementGuid>
+      <webElementGuid>e87ec266-96bb-4288-9ecd-79af13af5c0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

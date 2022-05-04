@@ -22,6 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>82bf67ad-d1eb-401d-af8f-bff5ca828922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>b3928504-2c54-434a-8a75-309a5433d9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8d784bbe-b113-43d0-ae63-2d788c491887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Bán hàng</value>
+      <webElementGuid>8e9134ef-232e-4ebb-b262-255b2fc31c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 text-center&quot;]/input[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>0749521e-c40a-401f-93fc-a95eac529eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>02d950ec-1daf-46da-bf85-00b4d11dce9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>f27ffbdf-d46d-4565-8e7c-ebe7b5b98164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>49588d1e-0d81-4729-a814-234e9b047bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Bán hàng</value>
+      <webElementGuid>a52f9fc6-eaf0-4f57-8582-42a3ed736378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 text-center&quot;]/input[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>43248c4d-563d-4aed-bc73-2c1d28f2e0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>817817ea-6278-474a-a8a8-8f7c0f5aa6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>bc2a257a-815e-4d60-b9f2-37de335453e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c29274f7-ba82-485f-b647-ce6aca324b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Bán hàng</value>
+      <webElementGuid>7f32359c-d077-4be6-9eae-a0687884bda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 text-center&quot;]/input[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>82f76683-bcc9-4f73-a3d9-ba8dee410802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
       <webElementGuid>6d15767f-a8f3-4e8e-8be3-78f72b234803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +153,7 @@
       <webElementGuid>96195d08-cf73-4550-a4e8-87361fe521b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -542,7 +662,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Bán hàng']</value>
-      <webElementGuid>811ac07b-d7a8-489b-944d-b8ae0ee01785</webElementGuid>
+      <webElementGuid>89966b82-036b-49d3-8daa-e1e3a55d920e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -550,7 +670,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>b8d1cd90-8456-42fe-9823-27b548a6d38a</webElementGuid>
+      <webElementGuid>1230b99c-85bf-4412-aedc-5ec7bd9d8072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -558,6 +678,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>42cf55cb-a7b0-4e13-ac41-b76b1cbd1e47</webElementGuid>
+      <webElementGuid>31851d4c-0abd-4b63-b423-6aab95edb8dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
