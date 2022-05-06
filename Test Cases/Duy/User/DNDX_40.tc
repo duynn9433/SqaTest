@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhân viên quản lí đăng xuất</description>
+   <name>DNDX_40</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28613cab-2c33-4d86-85c2-4e1315d010fd</testCaseGuid>
+</TestCaseEntity>
