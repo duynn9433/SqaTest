@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:8088/')
+
+WebUI.click(findTestObject('Object Repository/Page_ng nhp/input_Mt khu_btn'))
+
+WebUI.click(findTestObject('Object Repository/Page_Trang ch qun l/input_Trang ch qun l_btn btn-primary'))
+
+WebUI.click(findTestObject('Object Repository/Page_Seller Home/input_Qun l ho n_search'))
+
+WebUI.click(findTestObject('Object Repository/Page_Seller Home/input_Ch_edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Trang Ch Sn Phm/input_Ch thch_note'), 'GGG')
+
+WebUI.click(findTestObject('Object Repository/Page_Trang Ch Sn Phm/input_Ch thch_btn btn-primary'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Trang Ch Sn Phm/html_Trang Ch Sn Phm                       _6ca6c4'), 
+    0)
+
+WebUI.closeBrowser()
+
