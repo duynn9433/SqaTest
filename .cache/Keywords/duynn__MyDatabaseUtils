@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "C04CA626D75812DECAC9D207AEE8CB07",
+  "keywordFileContentHash": "B0A8A78063079D6139D12E3B109C2D8F",
   "keywordClasses": [
     {
       "name": "duynn.MyDatabaseUtils",
@@ -116,7 +116,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * Execute non-query (usually INSERT/UPDATE/DELETE/COUNT/SUM...) on database\n\t * @param queryString a SQL statement\n\t * @return single value result of SQL statement\n\t */"
+          "javadoc": "/**\r\n\t * Execute non-query (usually INSERT/UPDATE/DELETE/COUNT/SUM...) on database\r\n\t * @param queryString a SQL statement\r\n\t * @return single value result of SQL statement\r\n\t */"
         }
       ]
     }
