@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Qun l khch hng_search</name>
+   <tag></tag>
+   <elementGuidId>0394f7e9-84d7-47b7-8748-b2903ad03485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ef1ff1d9-f89f-46bb-b06c-1f8f7cde09de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>90d8db5d-83dd-4f4e-b7bb-dbf4c59d72e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>dcfe6fda-c63e-46e9-9c7f-ec178d1afda2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>84fb0eab-06bc-46d2-9531-6ca7ee26b030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>32237952-8ac1-459c-b2e5-483c0c5841a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 text-center&quot;]/form[@class=&quot;form-inline&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>2db9616d-58a8-4340-9e4b-1da40fcbf443</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='search']</value>
+      <webElementGuid>c2927945-e23e-4756-8fa6-04dd1ecea906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>d0ca753c-bcc7-43c1-b6a1-1b682732b639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'search']</value>
+      <webElementGuid>58bd0d70-b532-40f5-900d-b8aa6ed441cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

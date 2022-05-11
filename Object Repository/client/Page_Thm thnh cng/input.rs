@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>9a93e4dc-1999-4a05-9cc3-6d2a408f6c9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Xác nhận']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0adb39eb-252a-4767-89f4-87a5cc2278b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9980c27e-c5f3-40f2-9875-605be89512b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Xác nhận</value>
+      <webElementGuid>01633d85-6392-472b-84b2-c0f816163e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client&quot;)/input[5]</value>
+      <webElementGuid>8a895d32-3d7f-4bde-b0ed-2384be77ea92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Xác nhận']</value>
+      <webElementGuid>4f71b10e-ca8c-470c-8d6e-cdad835748aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='client']/input[5]</value>
+      <webElementGuid>aaaa5275-91a5-487a-8f7f-57c91d1f04b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[5]</value>
+      <webElementGuid>a09db019-7af9-4e7d-ae8b-c8c1db326256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>be50d239-fa6d-4f4e-b999-7226c90c74df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
